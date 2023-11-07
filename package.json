@@ -1,0 +1,27 @@
+{
+  "name": "sample-feed",
+  "version": "1.0.0",
+  "description": "Creating feeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-s-h-o-k/sample-repo.git"
+  },
+  "keywords": [
+    "feeds"
+  ],
+  "author": "aauti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-s-h-o-k/sample-repo/issues"
+  },
+  "homepage": "https://github.com/A-s-h-o-k/sample-repo#readme",
+  
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.1"
+  }
+}
