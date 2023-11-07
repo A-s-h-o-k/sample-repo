@@ -1,2 +1,2 @@
 
-export * as default from './src/Components/Timer'
+export * from './src/Components/Timer'
